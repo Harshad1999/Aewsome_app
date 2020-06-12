@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
             children: <Widget>[
               DrawerHeader(
                 child: Text(
-                  "Hii ",
+                  "Hii flutter",
                   style: TextStyle(color: Colors.black54),
                 ),
                 decoration: BoxDecoration(color: Colors.cyanAccent),
